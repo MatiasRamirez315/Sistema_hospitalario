@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1682133192 source:c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\main.cpp
+	<iostream>
+
+1685752616 source:c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<string>
+
+1685752182 c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\fecha.h
+	<iostream>
+	<cstring>
+
+1686694965 source:c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\persona.cpp
+	<iostream>
+	"Persona.h"
+	"Fecha.h"
+	"cstring"
+
+1686694965 c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\persona.h
+	"Fecha.h"
+
+1686185982 source:c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\tiempo.cpp
+	"Tiempo.h"
+
+1686185982 c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\tiempo.h
+
+1686186138 source:c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\paciente.cpp
+	"Paciente.h"
+
+1686187380 c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\paciente.h
+	<iostream>
+	<string>
+	<Fecha.h>
+	<Tiempo.h>
+
+1686186153 source:c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\tipodocumento.cpp
+	"TipoDocumento.h"
+	<string>
+
+1686186345 c:\users\nahuel\onedrive\escritorio\proyecto hospitalario  laboii\sistema hospitalario\tipodocumento.h
+	<iostream>
+	<string>
+
