@@ -34,17 +34,19 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Fecha.cpp" />
-		<Unit filename="Fecha.h" />
-		<Unit filename="Paciente.cpp" />
-		<Unit filename="Paciente.h" />
-		<Unit filename="Persona.cpp" />
-		<Unit filename="Persona.h" />
-		<Unit filename="Tiempo.cpp" />
-		<Unit filename="Tiempo.h" />
-		<Unit filename="TipoDocumento.cpp" />
-		<Unit filename="TipoDocumento.h" />
-		<Unit filename="main.cpp" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/ArchivoPersona.h" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/Fecha.cpp" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/Fecha.h" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/Paciente.cpp" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/Paciente.h" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/Persona.cpp" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/Persona.h" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/Tiempo.cpp" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/Tiempo.h" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/TipoDocumento.cpp" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/TipoDocumento.h" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/main.cpp" />
+		<Unit filename="../../../../Escritorio/Proyecto hospitalario  laboII/Sistema Hospitalario/src/ArchivoPersona.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
